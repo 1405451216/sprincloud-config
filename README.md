@@ -1,1 +1,1 @@
-# sprincloud-config
+# sprincloud-config的配置文件
